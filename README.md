@@ -19,7 +19,7 @@
 | `spec.md` | โจทย์ 5 หัวข้อ |
 | `prompts.md` | บันทึกขั้นตอนทุกรอบ (เขียนย้อนหลังจากงานที่ทำไว้แล้ว ระบุไว้ในไฟล์) |
 | `PROJECT_MEMORY.md` | ปัญหาที่เจอและกฎจากบทเรียน |
-| `output/` | deepdive v9, snapshot Q2/2569 v9, โมเดลการเงิน v9 (md/html/xlsx) |
+| `output/` | deepdive v9, snapshot Q2/2569 v20, โมเดลการเงิน v20 (md/html/xlsx) |
 | `help.md` | ติดตรงไหน 3 ข้อ |
 | `AGENTS.md` | คำสั่งให้ AI ทำงานใน repo นี้ |
 

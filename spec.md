@@ -34,7 +34,7 @@ updated: 2026-11-05
 
 รายงาน deep dive 1 ฉบับ (9 หัวข้อ: โครงสร้างการเงิน 5 ปี, อัตราครองเตียงรายโรงพยาบาล, วัฏจักรธุรกิจ, moat/คู่แข่ง, guideline vs execution, มหภาค, แผนอนาคต, scorecard, ข้อมูลนอกเอกสารทางการ) พร้อม snapshot ระยะสั้นรายไตรมาส และโมเดลการเงิน Excel ที่ตัวเลขในรายงานย้อนกลับไปดูได้
 
-ไฟล์ที่ต้องได้: `VIH_DeepDive_Report_2569-v9.html` · `VIH_Snapshot_Report_Q2_2569-v9.html` · `VIH_finance_model_v9.xlsx`
+ไฟล์ที่ต้องได้: `VIH_DeepDive_Report_2569-v9.html` · `VIH_Snapshot_Report_Q2_2569-v20.html` · `VIH_finance_model_v20.xlsx`
 
 ## 5. Success criteria · รู้ได้อย่างไรว่างานผ่าน
 
